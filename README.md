@@ -2,13 +2,13 @@
 
 Dự án nghiên cứu và ứng dụng các kỹ thuật Khai phá dữ liệu (Data Mining) & Học máy (Machine Learning) để phân tích các yếu tố ảnh hưởng và dự đoán nguy cơ nghỉ việc của nhân viên trong doanh nghiệp.
 
-## 👥 Thành viên thực hiện
+## Thành viên thực hiện
 - **Lê Nhật Trường**
 - **Nguyễn Minh Thiện**
 
 ---
 
-## 📁 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 | Tên tệp / Thư mục | Mô tả |
 | :--- | :--- |
@@ -19,7 +19,7 @@ Dự án nghiên cứu và ứng dụng các kỹ thuật Khai phá dữ liệu 
 
 ---
 
-## 🛠️ Công nghệ & Thư viện sử dụng
+## Công nghệ & Thư viện sử dụng
 - **Ngôn ngữ**: Python
 - **Môi trường**: Jupyter Notebook
 - **Thư viện chính**:
@@ -29,7 +29,7 @@ Dự án nghiên cứu và ứng dụng các kỹ thuật Khai phá dữ liệu 
 
 ---
 
-## 🚀 Hướng dẫn chạy Notebook
+## Hướng dẫn chạy Notebook
 1. Cài đặt các thư viện cần thiết:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn jupyter
